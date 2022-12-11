@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Application_1</string>
+    <string name="open_attractions">Open Attractions</string>
+    <string name="open_hotels">Open Hotels</string>
+    <string name="app_1">Application 1</string>
+    <string name="permission_desc">Permission required by the broadcast receiver</string>
+</resources>
